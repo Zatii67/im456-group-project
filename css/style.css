@@ -1,0 +1,17 @@
+html,body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+h1,h2,h3,h4,h5,h6 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+html,body,h1,h2,h3,h5,h6 {background-color: #e3bbbd;}
+
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+.w3-sidebar {background-color: #a97681;}
+
+.w3-bar {background-color: #7a2841;}
